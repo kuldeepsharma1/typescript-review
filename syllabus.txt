@@ -1,0 +1,91 @@
+Full stack Roadmap 2024 -Skill Set (70 %)
+
+1. Fundamentals of web
+html5,css,js(es6+),Git github   
+2. Front End
+   React js -> {JSX}
+    Components(Functional,Class)
+    State and Props
+    Lifecycle methods and hooks (UseState,UseEffect ,UseContext etc)
+    React Router
+    Context Api & Redux
+    Css Frameworks famillarity
+    Webpack
+    Babel
+    Eslint
+
+3. BackEnd
+
+Nodejs with Typescript
+    Event Loop
+    CommonJS & Es6 Modules
+    File System 
+    Http Module
+    Express Js
+    Routing
+    Middleware
+    Template Engines (Pug js,Ejs)
+    RestFul Apis
+    JWT
+    OAuth
+
+
+4. Database
+    MongoDB
+        Collections & Documents
+        CRUD
+        Moongoose(Schemas & Models)
+        Aggretion Frameworks
+        Indexes
+        RBAC (Role based access control)
+
+5 Apis
+
+CRUD
+JWT Auth
+Security (Rate Limiting,Data Validation)
+Error Handling
+GraphQL,Grpc
+
+
+6. Authentication & Authorization  
+JWT                  
+OAuth SSO 
+Session & Cookies
+RBAC
+
+7. Deployment 
+AWS/GCP
+VERCEL/Netlify
+Github Actions
+
+Jenkins
+Docker
+Kubenates
+PM2
+
+optional
+Nginx/Apache
+PRoxy/Reverse Proxy
+
+8.Testing
+
+Unit testing (Mocha,Chai,Jest)
+Integration testing (Supertest)
+End to End (Selenium,Cypruss)
+
+
+9.Adavnce topics
+    Next js 
+    Websockets (Socket.io)
+    Micro services Architecture
+    Monolith Architecture
+    Typescript
+
+soft skills and required skills
+
+DSA 
+System Design
+Project Management
+Problem Solving (LeetCode,HackerRank)
+
