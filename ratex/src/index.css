@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "Rubik";
+        font-weight: 1 1000;
+        src: url("/public/fonts/Rubik.ttf")format('truetype');
+      }
+    
+      @font-face {
+        font-family: "RubikItalic";
+        font-weight: 1 1000;
+        font-style: italic;
+        src: url("/public/fonts/RubikItalic.ttf")format('truetype');
+      }
+    
+}
