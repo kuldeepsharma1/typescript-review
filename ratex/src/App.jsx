@@ -4,8 +4,8 @@ function App() {
 
 
   return (
-    <div>
-      <h1 className="text-red-500">Ratex</h1>
+    <div className="min-h-80 max-h-80 overflow-hidden">
+
     </div>
   )
 }
